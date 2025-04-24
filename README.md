@@ -7,7 +7,7 @@
 
 **Anansi 1.0-a** (`anansi-extract`) is a Python-based tool for extracting quiz content from video recordings of popular TV game shows, with an initial focus on broadcasts in the Balkan region.
 
-This repository is a fork of the original **[Anansi](https://github.com/ilic5000/pabkvizgenerator)** project by *Nenad Ilić*, and aims to enhance **modularity** and **accuracy**, with potential gains in **processing performance** as development progresses.*. It serves as a foundation for continued development, including broader support for additional quiz formats and potential expansion to English-language content.
+This repository is a fork of the original **[Anansi](https://github.com/ilic5000/pabkvizgenerator)** project by *Nenad Ilić*, and aims to enhance **modularity** and **accuracy**, with potential gains in **processing performance** as development progresses. It serves as a foundation for continued development, including broader support for additional quiz formats and potential expansion to English-language content.
 
 The system leverages **computer vision** (OpenCV and FFmpeg) and **optical character recognition (OCR)** technologies (EasyOCR and Tesseract) to detect, extract, and structure quiz questions and correct answers directly from video frames.
 

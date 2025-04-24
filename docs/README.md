@@ -7,9 +7,6 @@
   - [Idea \& Motivation](#idea--motivation)
     - [Reason #1](#reason-1)
     - [Reason #2](#reason-2)
-  - [Results - extracted questions \& answers](#results---extracted-questions--answers)
-    - [Slagalica (more than 24k questions and answers)](#slagalica-more-than-24k-questions-and-answers)
-    - [Pot(j)era (3k questions and answers)](#potjera-3k-questions-and-answers)
   - [Algorithm](#algorithm)
     - [General idea](#general-idea)
   - [Optimisation ideas](#optimisation-ideas)
@@ -34,16 +31,6 @@ After a couple of days, this is the project that I come up with.
 
 ### Reason #2
 Learn something new. I've never, not since college anyway, done any computer vision work, and I didn't have any experience with OCRs too. So it was a really nice opportunity to venture into the unknown.
-
-## Results - extracted questions & answers
-
-### Slagalica (more than 24k questions and answers)
-[https://tinyurl.com/anansi-slagalica](https://tinyurl.com/anansi-slagalica)
-
-### Pot(j)era (3k questions and answers)
-[https://tinyurl.com/anansi-pot(j)era](https://tinyurl.com/anansi-potera)
-
-**Note:** Slagalica has a lot more (24k > 3k) questions extracted simply because the Slagalica TV show has an [official youtube channel](https://www.youtube.com/channel/UCPYHhBsZpnBFOiiM5mfDf9w) where all recent episodes can be found. Pot(j)era does not have an official channel, and videos are often removed due to copyright infringements which in result leads to a very limited number of episodes circulating on the internet.
 
 ## Algorithm
 
